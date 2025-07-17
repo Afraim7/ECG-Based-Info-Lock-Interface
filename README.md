@@ -2,13 +2,13 @@
 
 A secure authentication system that uses your unique ECG biometric signature to protect and unlock sensitive information.
 
----
+
 
 ## 🔐 Project Overview
 
 ECG Info Lock is a biometric-based security application that leverages the uniqueness of each user's ECG signal as a key for unlocking protected information. The system combines a Flutter-based frontend with a machine learning model trained to recognize and verify ECG signatures.
 
----
+
 
 ## 📁 Repository Structure
 
@@ -19,7 +19,7 @@ ECG Info Lock is a biometric-based security application that leverages the uniqu
 ├── Report.docx / .pdf          # Full technical report documentation  
 └── README.md                   # This file
 
----
+
 
 ## ⚙️ Key Features
 
@@ -29,7 +29,7 @@ ECG Info Lock is a biometric-based security application that leverages the uniqu
 - Clean UI with intuitive flow  
 - Offline ECG archive for multi-user testing  
 
----
+
 
 ## 🚀 Getting Started
 
@@ -45,7 +45,7 @@ flutter run
 2. Run cells sequentially  
    *(Requires Python, NumPy, TensorFlow/Keras, Jupyter Notebook)*
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -55,13 +55,13 @@ flutter run
 - **TensorFlow/Keras** — Deep learning  
 - **Jupyter Notebook** — Model prototyping and experimentation  
 
----
+
 
 ## 🖼️ Screenshots
 
 Screenshots of the app interface can be found in the `/UI` folder.
 
----
+
 
 ## 📝 License
 
