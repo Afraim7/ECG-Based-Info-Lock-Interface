@@ -1,16 +1,22 @@
 # ecg_info_lock
 
-A new Flutter project.
+A secure authentication system that uses your unique ECG biometric signature to protect and unlock sensitive information.
 
-## Getting Started
+## 🔐 About the Project
 
-This project is a starting point for a Flutter application.
+`ecg_info_lock` leverages the uniqueness of ECG (electrocardiogram) signals as a biometric identifier. By capturing and analyzing the user’s ECG pattern, the app can verify identity and provide access to secure data or features.
 
-A few resources to get you started if this is your first Flutter project:
+### ⚙️ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Biometric authentication using ECG signals
+- Data protection via Flutter + backend integration
+- Realtime signal capture and analysis
+- Clean UI and efficient state management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To run this app locally:
+
+```bash
+flutter pub get
+flutter run
