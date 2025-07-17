@@ -9,8 +9,8 @@ A secure authentication system that uses your unique ECG biometric signature to 
 ### ⚙️ Key Features
 
 - Biometric authentication using ECG signals
-- Data protection via Flutter + backend integration
-- Realtime signal capture and analysis
+- Data protection via Flutter + backend model integration
+- Previously recorded signal analysis
 - Clean UI and efficient state management
 
 ## 🚀 Getting Started
